@@ -1,0 +1,15 @@
+{
+  "fullscreen": true,
+  "display_width": 0,
+  "display_height": 0,
+  "image_scale_mode": "stretch",
+  "home_timeout_seconds": 60.0,
+  "transition_seconds": 0.35,
+  "gpio_enabled": true,
+  "encoder_a_pin": 17,
+  "encoder_b_pin": 27,
+  "pulses_per_revolution": 360,
+  "degrees_per_image": 36,
+  "pulse_reset_seconds": 10.0,
+  "invert_direction": false
+}
